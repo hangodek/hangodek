@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋
+Hello there, my name is Muhammad Farhan Pulungan, i'm have a big interest in computer since i was child and i am currently studying some of the programming language like Html, Css, Javascript, and Python.
+I have been study about of this programming language from many source like MDN, The Odin Project, Dicoding, and Code Bro.
 
-<!--
-**hangodek/hangodek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an enthusiastic individual and like to learn new things.
 
-Here are some ideas to get you started:
+# Education
+  
+### Universitas Al-Wasliyah Sumatera Utara (Present)
+### Smk Telkom Shandy Putra Medan (2017 - 2020)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Language
+- Html
+- Css
+- Javascript
+- Python
+- C (forgotten)
+
