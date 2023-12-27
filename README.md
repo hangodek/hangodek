@@ -14,5 +14,6 @@ I am an enthusiastic individual and like to learn new things.
 - Css
 - Javascript
 - Python
+- Ruby
 - C (forgotten)
 
