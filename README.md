@@ -1,5 +1,5 @@
 # 👋
-Hello there, my name is Muhammad Farhan Pulungan, i'm have a big interest in computer since i was child and i am currently studying some of the programming language like Html, Css, Javascript, and Python.
+Hello there, my name is Muhammad Farhan Pulungan, i'm have a big interest in computer since i was child and i am currently studying some of the programming language like Html, Css, Javascript, Python, and other.
 I have studied about this programming language from many sources like MDN, The Odin Project, Dicoding, and Code Bro.
 
 I am an enthusiastic individual and like to learn new things.
@@ -16,4 +16,7 @@ I am an enthusiastic individual and like to learn new things.
 - Python
 - Ruby
 - C (forgotten)
+
+# Liblary
+- React ( In the process of learning inshaallah )
 
