@@ -1,22 +1,22 @@
 # 👋
-Hello there, my name is Muhammad Farhan Pulungan, i'm have a big interest in computer since i was child and i am currently studying some of the programming language like Html, Css, Javascript, Python, and other.
-I have studied about this programming language from many sources like MDN, The Odin Project, Dicoding, and Code Bro.
+Hello there, my name is Muhammad Farhan Pulungan. I have had a big interest in computers since I was a child, and I am currently studying some programming languages such as HTML, CSS, JavaScript, Python, and others. I have learned about these programming languages from various sources like MDN, The Odin Project, Dicoding, and Code Bro.
 
-I am an enthusiastic individual and like to learn new things.
+I am an enthusiastic individual and enjoy learning new things.
 
 # Education
   
-### Universitas Al-Wasliyah Sumatera Utara (Present)
-### Smk Telkom Shandy Putra Medan (2017 - 2020)
+### SMK Telkom Shandy Putra Medan (2017 - 2020)
+### Baitul Qur'an Amindy Barokah (2020 - 2022)
+### Ma'had Abu Ubaidah Bin al-Jarrah (2022 - Present)
+### Universitas Al-Wasliyah Sumatera Utara (2022 - Present)
 
-# Language
-- Html
-- Css
-- Javascript
+# Languages
+- HTML
+- CSS
+- JavaScript
 - Python
 - Ruby
 - C (forgotten)
 
-# Liblary
-- React ( In the process of learning inshaallah )
-
+# Libraries
+- React (In the process of learning, inshaAllah)
