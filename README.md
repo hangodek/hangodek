@@ -1,7 +1,5 @@
 ## Welcome to My Profile👋
-Hello there, my name is Muhammad Farhan Pulungan. I have had a big interest in computers since I was a child, and I am currently studying some programming languages such as HTML, CSS, JavaScript, Python, and others. I have learned about these programming languages from various sources like MDN, The Odin Project, Dicoding, and Code Bro.
-
-I am an enthusiastic individual and enjoy learning new things.
+Ruby on Rails enthusiast who loves building full-stack applications fast. I work with Hotwire Turbo and Stimulus to create responsive, modern web apps without the bloat. Currently diving deeper into Rails 78, Turbo Streams, and optimizing development workflows. When I'm not coding, I'm probably exploring new ways to write cleaner, more efficient Ruby.
 
 ## 🏫 Education
   
@@ -12,11 +10,7 @@ I am an enthusiastic individual and enjoy learning new things.
 
 ## 🛠 Tech Stack
 
-![javaScript](https://img.shields.io/badge/JavaScript%20-%20black?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML%20-%20black?logo=html5)
-![CSS](https://img.shields.io/badge/CSS%20-%20black?logo=css3&logoColor=blue)
-![Python](https://img.shields.io/badge/Python%20-%20black?logo=python)
-![PHP](https://img.shields.io/badge/PHP%20-%20black?logo=php)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails%20-%20black?logo=rubyonrails&logoColor=red)
 ![Ruby](https://img.shields.io/badge/Ruby%20-%20black?logo=ruby&logoColor=red)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%20black?logo=nodedotjs)
 ![React](https://img.shields.io/badge/React%20-%20black?logo=react)
