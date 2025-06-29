@@ -30,8 +30,11 @@ I am an enthusiastic individual and enjoy learning new things.
 ## 📫 Connect with Me
 
 <p>
+  <a href="https://www.linkedin.com/in/muhammad-farhan-pulungan-2b9a7a192/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.instagram.com/han.godek/">
-    <img src="https://img.shields.io/badge/Instagram%20-%20black?logo=instagram&color=pink" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
 
