@@ -1,5 +1,5 @@
 ## Welcome to My Profile👋
-Ruby on Rails enthusiast who loves building full-stack applications fast. I work with Hotwire Turbo and Stimulus to create responsive, modern web apps without the bloat. Currently diving deeper into Rails 78, Turbo Streams, and optimizing development workflows. When I'm not coding, I'm probably exploring new ways to write cleaner, more efficient Ruby.
+Full-Stack Ruby on Rails Developer specializing in building high-performance, modern web applications. I leverage Hotwire (Turbo & Stimulus) to create fast, responsive user experiences with the efficiency of server-side rendering. Currently mastering the new capabilities of Rails 8 to deliver even more powerful solutions. My core passion lies in writing clean, maintainable, and scalable Ruby code.
 
 ## 🏫 Education
   
