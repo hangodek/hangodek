@@ -12,9 +12,8 @@ Full-Stack Ruby on Rails Developer specializing in building high-performance, mo
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails%20-%20black?logo=rubyonrails&logoColor=red)
 ![Ruby](https://img.shields.io/badge/Ruby%20-%20black?logo=ruby&logoColor=red)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%20black?logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML%20-%20black?logo=html5)
-![CSS](https://img.shields.io/badge/CSS%20-%20black?logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%20black?logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%20black?logo=nodedotjs)
 ![React](https://img.shields.io/badge/React%20-%20black?logo=react)
 
