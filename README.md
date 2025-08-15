@@ -5,7 +5,7 @@ Full-Stack Ruby on Rails Developer specializing in building high-performance, mo
   
 ### SMK Telkom Shandy Putra Medan (2017 - 2020)
 ### Baitul Qur'an Amindy Barokah (2020 - 2022)
-### Ma'had Abu Ubaidah Bin al-Jarrah (2022 - Present)
+### Ma'had Abu Ubaidah Bin al-Jarrah (2022 - 2024)
 ### Universitas Al-Wasliyah Sumatera Utara (2022 - Present)
 
 ## 🛠 Tech Stack
