@@ -17,12 +17,6 @@ Full-Stack Ruby on Rails Developer specializing in building high-performance, mo
 ![Node.js](https://img.shields.io/badge/Node.js%20-%20black?logo=nodedotjs)
 ![React](https://img.shields.io/badge/React%20-%20black?logo=react)
 
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangodek&layout=compact&theme=dark&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&icon_color=79ff97&border_color=ffffff" />
-  </a>
-</p>
-
 ## 📫 Connect with Me
 
 <p>
